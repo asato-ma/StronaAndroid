@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StronaAndroid</string>
+    <string name="app_name_2">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="txt1">Info 1</string>
+    <string name="txt2">Info 2</string>
+</resources>

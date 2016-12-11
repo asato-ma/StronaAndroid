@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StronaAndroid ver PL</string>
+    <string name="app_name_2">Moja Apka</string>
+    <string name="edit_message">Wprowadź wiadomość</string>
+    <string name="button_send">Wyślij</string>
+    <string name="txt1">Wiadomość 1</string>
+    <string name="txt2">Wiadomość 2</string>
+</resources>
